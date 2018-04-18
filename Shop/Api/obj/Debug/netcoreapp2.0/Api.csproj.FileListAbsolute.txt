@@ -1,0 +1,15 @@
+D:\Snow\Shop\Shop\Api\bin\Debug\netcoreapp2.0\Api.deps.json
+D:\Snow\Shop\Shop\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.json
+D:\Snow\Shop\Shop\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.dev.json
+D:\Snow\Shop\Shop\Api\bin\Debug\netcoreapp2.0\Api.dll
+D:\Snow\Shop\Shop\Api\obj\Debug\netcoreapp2.0\Api.csprojResolveAssemblyReference.cache
+D:\Snow\Shop\Shop\Api\obj\Debug\netcoreapp2.0\Api.csproj.CoreCompileInputs.cache
+D:\Snow\Shop\Shop\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfoInputs.cache
+D:\Snow\Shop\Shop\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfo.cs
+D:\Snow\Shop\Shop\Api\bin\Debug\netcoreapp2.0\Api.pdb
+D:\Snow\Shop\Shop\Api\obj\Debug\netcoreapp2.0\Api.dll
+D:\Snow\Shop\Shop\Api\obj\Debug\netcoreapp2.0\Api.pdb
+D:\Snow\Shop\Shop\Api\bin\Debug\netcoreapp2.0\Snow.Orm.dll
+D:\Snow\Shop\Shop\Api\bin\Debug\netcoreapp2.0\Snow.Orm.pdb
+D:\Snow\Shop\Shop\Api\obj\Debug\netcoreapp2.0\Api.csproj.CopyComplete
+D:\Snow\Shop\Shop\Api\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

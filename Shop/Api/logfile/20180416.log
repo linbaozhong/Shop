@@ -1,0 +1,4 @@
+2018-04-16 21:36:00,353 | SELECT `ID`,`Mobile` FROM `Users` WHERE `id`=1 limit 1;
+2018-04-16 21:36:34,146 | SELECT `ID`,`Mobile` FROM `Users` WHERE `id`=1 limit 1;
+2018-04-16 21:36:36,952 | SELECT `ID`,`Mobile` FROM `Users` WHERE `id`=1 limit 1;
+2018-04-16 21:36:37,502 | SELECT `ID`,`Mobile` FROM `Users` WHERE `id`=1 limit 1;

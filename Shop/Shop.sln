@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "Api\Api.csproj", "{B5AA0533-A8A3-4586-B2A1-4B5A7F6C5D41}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Snow.Orm", "..\..\Snow.Orm.Mysql.NetCore\ORM\Snow.Orm.csproj", "{D65E592E-E9CC-4EB5-956C-CC3FDF722631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5AA0533-A8A3-4586-B2A1-4B5A7F6C5D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5AA0533-A8A3-4586-B2A1-4B5A7F6C5D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5AA0533-A8A3-4586-B2A1-4B5A7F6C5D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5AA0533-A8A3-4586-B2A1-4B5A7F6C5D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D65E592E-E9CC-4EB5-956C-CC3FDF722631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65E592E-E9CC-4EB5-956C-CC3FDF722631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65E592E-E9CC-4EB5-956C-CC3FDF722631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65E592E-E9CC-4EB5-956C-CC3FDF722631}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98A3BFE0-2D0F-48C9-AC2F-7463AC0064EE}
+	EndGlobalSection
+EndGlobal
